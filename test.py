@@ -1,6 +1,6 @@
 import unittest
 
-from C:\Users\dziwirekb\PycharmProjects\pythonProject\main.py import Calculator
+from main import Calculator
 
 class TestSum(unittest.TestCase):
 
