@@ -22,5 +22,4 @@ class Calculator():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    unittest.main(argv=[''], verbosity=2, exit=False)
 
